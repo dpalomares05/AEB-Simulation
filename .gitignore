@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Simulation output (≈1.4 GB of recordings/logs)
+results/
+
+# Third-party reference papers (not ours to redistribute)
+2108.02403v2.pdf
+FULLTEXT01.pdf
+
+# Office lock files / OS cruft
+~$*
+.DS_Store
+Thumbs.db
